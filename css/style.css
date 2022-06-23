@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container__general{
+    background-color: rgb(241, 219, 199);
+
+}
+
+.titulo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.section1{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.firstMsn{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem 0 0 3rem;
+
+}
+
+.msn{
+    width: 30rem;
+    height: 10rem;
+    border: solid 2px black;
+    border-radius: 8px;
+    padding: 0.5rem;
+}
+
+
+.disNon{
+    display: none;
+}
+.disNon2{
+    display: none;
+}
+.disNon3{
+    display: none;
+}
